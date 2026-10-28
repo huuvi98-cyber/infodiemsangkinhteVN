@@ -1,0 +1,6 @@
+{
+  "name": "Điểm sáng Kinh tế Việt Nam 9 Tháng 2026",
+  "description": "Box đồ họa động hiển thị 5 điểm sáng kinh tế Việt Nam 9 tháng năm 2026 với hiệu ứng tương tác, hoạt hình số liệu và tùy chọn nhúng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
